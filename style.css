@@ -33,7 +33,6 @@ h1{
     max-width: 100%;    
 }
 .introduction{
-    max-width: 100%;
     width: 70%;
     line-height: 32px;
     margin-left: 250px;
@@ -41,7 +40,6 @@ h1{
     text-align: left;
 }
 .education{
-    max-width: 100%;
     width:70%;
     line-height:32px;
     margin-left: 250px;
@@ -49,7 +47,6 @@ h1{
     text-align: left;
 }
 .hobbies{
-    max-width: 100%;
     width: 30%;
     line-height: 32px;
     margin-left: 250px;
@@ -66,7 +63,6 @@ h3{
      color: #F1B81A;
      font-weight: 800;
      margin: auto;
-     max-width: 100%;
 }
 p{
     font-family:'Montserrat', sans-serif; 
@@ -74,7 +70,6 @@ p{
     padding-left: 20px;
     padding-right: 20px;
     text-align: justify;
-    max-width: 100%;
 }
 .mark1{
     background-color: rgb(241, 184, 26);
@@ -99,5 +94,5 @@ a{
     font-family: dancing script;
     color: rgba(254, 171, 37, 0.989);
     font-weight: bold;
-    padding-left: 850px;
+    padding-left: 900px;
 }
