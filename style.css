@@ -7,28 +7,28 @@
     border-radius: 30px;
     max-width: 1200px;
     width: 100%;
-    border-width: 4px;
+    border-width: 0.5px;
     border-style: solid;
-    border-color: #14326d;
-    box-shadow: 0 0 25px 10px;
+    border-color: #2d54a2;
+    box-shadow: 0 0 20px 0px;
     box-sizing: border-box;
 }
 .touficsimage{
     height:200px; 
     width: 200px;
-    border-radius: 20px;
+    border-radius: 15px;
     margin-top: 50px;
     margin-bottom: 40px;
     box-sizing: content-box;
-    box-shadow: #e4b32c 0 0 20px 6px;
+    box-shadow: #5f8caa 0 0 15px 6px;
 }
 h1{
     font-size: 36px;font-family: 'Montserrat', sans-serif; 
     color: #03112c;
-    border: rgb(44, 43, 43)4px solid;
-    border-radius: 15px;
+    border: rgb(69, 68, 68) 3px solid;
+    border-radius: 10px;
     margin: 0 250px 0;
-    background-color: #b2b2b4;
+    background-color: #c9c9cb;
     padding: 10px 10px;
     max-width: 100%;    
 }
