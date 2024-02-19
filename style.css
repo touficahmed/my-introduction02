@@ -15,7 +15,7 @@
 }
 .touficsimage{
     height:200px; 
-    width: 200px;
+    width: 200px; 
     border-radius: 15px;
     margin-top: 50px;
     margin-bottom: 40px;
@@ -30,7 +30,8 @@ h1{
     margin: 0 250px 0;
     background-color: #c9c9cb;
     padding: 10px 10px;
-    max-width: 100%;    
+    max-width: 100%;   
+    font-weight: 600; 
 }
 .introduction{
     width: 70%;
